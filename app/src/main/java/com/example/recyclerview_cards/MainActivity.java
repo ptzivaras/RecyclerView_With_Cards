@@ -52,13 +52,13 @@ public class MainActivity extends AppCompatActivity {
         exampleList.add(new ExampleItem("Line 1", "Line 2"));
         exampleList.add(new ExampleItem("Line 3", "Line 4"));
         exampleList.add(new ExampleItem( "Line 5", "Line 6"));
-        exampleList.add(new ExampleItem("Line 7", "Line 8"));
+        exampleList.add(new ExampleItem("Line 70", "Line 8"));
         exampleList.add(new ExampleItem( "Line 9", "Line 10"));
         exampleList.add(new ExampleItem("Line 11", "Line 12"));
         exampleList.add(new ExampleItem("Line 13", "Line 14"));
-        exampleList.add(new ExampleItem("Line 15", "Line 16"));
+        exampleList.add(new ExampleItem("Line 105", "Line 16"));
         exampleList.add(new ExampleItem("Line 17", "Line 18"));
-        exampleList.add(new ExampleItem("Line 19", "Line 20"));
+        exampleList.add(new ExampleItem("Line 109", "Line 20"));
         exampleList.add(new ExampleItem("Line 21", "Line 22"));
         exampleList.add(new ExampleItem("Line 23", "Line 24"));
         exampleList.add(new ExampleItem("Line 25", "Line 26"));
