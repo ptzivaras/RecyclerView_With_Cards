@@ -63,7 +63,7 @@ public class MainActivity extends AppCompatActivity {
         exampleList.add(new ExampleItem("Line 23", "Line 24"));
         exampleList.add(new ExampleItem("Line 2445", "Line 26"));
         exampleList.add(new ExampleItem("Line 27", "Line 280"));
-        exampleList.add(new ExampleItem("Line 29", "Line 300"));
+        exampleList.add(new ExampleItem("Line 299999", "Line 300"));
 
         mRecyclerView = findViewById(R.id.recyclerView);
         mRecyclerView.setHasFixedSize(true);
