@@ -61,7 +61,7 @@ public class MainActivity extends AppCompatActivity {
         exampleList.add(new ExampleItem("Line 109", "Line 20"));
         exampleList.add(new ExampleItem("Line 21", "Line 22"));
         exampleList.add(new ExampleItem("Line 23", "Line 24"));
-        exampleList.add(new ExampleItem("Line 25", "Line 26"));
+        exampleList.add(new ExampleItem("Line 2445", "Line 26"));
         exampleList.add(new ExampleItem("Line 27", "Line 280"));
         exampleList.add(new ExampleItem("Line 29", "Line 300"));
 
