@@ -11,3 +11,5 @@ implementation 'androidx.cardview:cardview:1.0.0'
  -app:cardElevation="8dp"
  -android:layout_margin="8dp"
  + and app:cardCornerRadius="4dp for corner
+
+3)For those who need different view types: https://www.youtube.com/playlist?list=PLk7v1Z2rk4hhiF-yfzhfj9IPi6t0cpIaV
